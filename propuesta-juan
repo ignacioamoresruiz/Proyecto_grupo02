@@ -1,4 +1,4 @@
-
+Solo añado esta linea ya que la ha dejado en blanco
 Para mejorar la eficiencia de tu código Python, considera el uso de la función map() en lugar de bucles for para aplicar una operación 
 a todos los elementos de una lista de manera más eficiente. Por ejemplo:
 
